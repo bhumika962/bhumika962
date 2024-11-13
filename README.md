@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hello, I'm Bhumika Dube</h1> <div align="center"> 
 <img src="code.gif" alt="Coder Gif" style="width:400px;"/> 
-</div> <h3 align="center">🎓 BSc IT Student </h3> <h4 align="center">📍MVLU College Mumbai </h4>
-
+</div> <h3 align="center">🎓 BSc IT Student | 📍 MVLU College, Mumbai</h3>
 
 ## 💫 About Me:
 👩🏻‍💻 I am a Second year Information Technology Undergraduate (Bsc.IT) at **[University of Mumbai](https://mu.ac.in/)**<br>
