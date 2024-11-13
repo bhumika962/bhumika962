@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Bhumika Dube</h1> <div align="center"> 
-<img src="programmer.gif" alt="Coder Gif" style="width:400px;"/> 
+<img src="code.gif" alt="Coder Gif" style="width:400px;"/> 
 </div> <h3 align="center">🎓 BSc IT Student </h3> <h4 align="center">📍MVLU College Mumbai </h4>
 
 
