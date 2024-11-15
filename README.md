@@ -31,9 +31,13 @@
 </td><td valign="top" width="33%">
 
 # 📊 GitHub Stats:
+<div align="center">  
+
 ![](https://github-readme-stats.vercel.app/api?username=bhumika962&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhumika962&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika962&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bhumika962&theme=radical&no-frame=false&no-bg=true&margin-w=4)
