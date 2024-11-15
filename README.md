@@ -8,7 +8,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhumika-dube-295105299/) 
+<a href="https://www.linkedin.com/in/bhumika-dube-295105299/" target="_blank" style="text-decoration: none; font-weight: bold;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:40px; height:40px margin: 10px; ; vertical-align: middle;">
 
 # 💻 Tech Stack:
 <div align="center">  
