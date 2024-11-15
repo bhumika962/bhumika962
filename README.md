@@ -46,4 +46,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bhumika962&icon=0&color=1)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/bhumika962/bhumika962/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
