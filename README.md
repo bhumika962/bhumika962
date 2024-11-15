@@ -25,7 +25,7 @@
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="45" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="45" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="45" /></a>  
-<img src="GitHub 1.png" alt="Coder Gif" style="width:50px;"/>
+<img src="GitHub 1.png" alt="Coder Gif" style="width:60px;"/>
 </div>
 
 </td><td valign="top" width="33%">
