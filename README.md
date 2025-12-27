@@ -113,28 +113,6 @@ I have a **solid understanding of computer science fundamentals** including **DS
 
 ---
 
-## 📊 GitHub Stats:
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=bhumika962&theme=rose&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumika962&theme=rose&hide_border=false" alt="GitHub Streak Stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika962&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies:
-<div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=bhumika962&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-## 🌟 **Visitor Count**:
-<div align="center">
-        
-[![](https://visitcount.itsvg.in/api?id=bhumika962&icon=0&color=1)](https://visitcount.itsvg.in)<br>
-👀 **Total Visitors So Far!**
-</div>
-
 ## 🐍 GitHub Contribution Snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhumika962/bhumika962/output/github-snake-dark.svg" />
