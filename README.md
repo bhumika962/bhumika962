@@ -50,7 +50,7 @@ I have a **solid understanding of computer science fundamentals** including **DS
 </div>
 
 <div align="center">
-  📫 **Email:** dubebhumika.it@gmail.com  
+  📫 Email: dubebhumika.it@gmail.com  
 </div>
 
 ---
@@ -72,6 +72,7 @@ I have a **solid understanding of computer science fundamentals** including **DS
         <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="45" /></a>  
         <img src="GitHub 1.png" alt="Coder Gif" style="width:60px;"/>
 </div>
+
 ### 🧠 Core Computer Science
 - Data Structures & Algorithms (DSA)
 - Object-Oriented Programming (OOP)
